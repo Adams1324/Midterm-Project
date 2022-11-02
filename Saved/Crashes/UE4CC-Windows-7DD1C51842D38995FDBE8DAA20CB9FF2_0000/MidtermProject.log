@@ -1,0 +1,1311 @@
+﻿Log file open, 11/02/22 16:00:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MidtermProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.260336
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA Quadro P2000
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:317][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.02-20.00.47:317][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.02-20.00.47:318][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:318][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:324][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.02-20.00.47:324][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.02-20.00.47:325][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.02-20.00.47:325][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.02-20.00.47:325][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.02-20.00.47:325][  0]LogHAL: Display: Platform has ~ 16 GB [17018806272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.02-20.00.47:326][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.02-20.00.47:326][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.02-20.00.47:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Engine.ini]
+[2022.11.02-20.00.47:327][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Config/Windows/Editor.ini]
+[2022.11.02-20.00.47:327][  0]LogInit: Computer: 5CD912CGNW
+[2022.11.02-20.00.47:327][  0]LogInit: User: astilber
+[2022.11.02-20.00.47:327][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.02-20.00.47:327][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.02-20.00.47:327][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.02-20.00.47:327][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.02-20.00.47:327][  0]LogMemory: Process Physical Memory: 146.25 MB used, 146.26 MB peak
+[2022.11.02-20.00.47:327][  0]LogMemory: Process Virtual Memory: 146.59 MB used, 146.59 MB peak
+[2022.11.02-20.00.47:327][  0]LogMemory: Physical Memory: 10206.00 MB used,  6024.39 MB free, 16230.40 MB total
+[2022.11.02-20.00.47:327][  0]LogMemory: Virtual Memory: 134213296.00 MB used,  4431.25 MB free, 134217728.00 MB total
+[2022.11.02-20.00.47:333][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.02-20.00.47:364][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.02-20.00.47:365][  0]LogInit: Using OS detected language (en-US).
+[2022.11.02-20.00.47:365][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.02-20.00.47:371][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.02-20.00.47:543][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.02-20.00.47:560][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.02-20.00.47:576][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.02-20.00.47:576][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.02-20.00.47:740][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.02-20.00.47:743][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.02-20.00.47:743][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.02-20.00.47:743][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.02-20.00.47:743][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.02-20.00.47:863][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P2000' (Feature Level 11_0)
+[2022.11.02-20.00.47:863][  0]LogD3D11RHI:       4019/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     Description : NVIDIA Quadro P2000
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     DeviceId    : 1cba
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     SubSysId    : 8451103c
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     DedicatedVideoMemory : 4214226944 bytes
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     SharedSystemMemory : 8509403136 bytes
+[2022.11.02-20.00.47:866][  0]LogD3D11RHI:     AdapterLuid : 0 147730
+[2022.11.02-20.00.47:877][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.02-20.00.47:877][  0]LogD3D11RHI:     GPU DeviceId: 0x1cba (for the marketing name, search the web for "GPU Device Id")
+[2022.11.02-20.00.47:877][  0]LogWindows: EnumDisplayDevices:
+[2022.11.02-20.00.47:877][  0]LogWindows:    0. 'NVIDIA Quadro P2000' (P:1 D:1)
+[2022.11.02-20.00.47:878][  0]LogWindows:    1. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.11.02-20.00.47:878][  0]LogWindows:    2. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.11.02-20.00.47:878][  0]LogWindows:    3. 'NVIDIA Quadro P2000' (P:0 D:0)
+[2022.11.02-20.00.47:879][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P2000
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:   Driver Version: 516.69 (internal:31.0.15.1669, unified:516.69)
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:      Driver Date: 7-6-2022
+[2022.11.02-20.00.47:879][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     Description : NVIDIA Quadro P2000
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     DeviceId    : 1cba
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     SubSysId    : 8451103c
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     DedicatedVideoMemory : 4214226944 bytes
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     SharedSystemMemory : 8509403136 bytes
+[2022.11.02-20.00.47:879][  0]LogD3D11RHI:     AdapterLuid : 0 147730
+[2022.11.02-20.00.47:947][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.02-20.00.47:947][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.02-20.00.47:947][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.02-20.00.47:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.02-20.00.48:019][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.02-20.00.48:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.02-20.00.48:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.02-20.00.48:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.02-20.00.48:423][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.02-20.00.48:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.02-20.00.48:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.02-20.00.48:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.02-20.00.48:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.02-20.00.48:458][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.02-20.00.48:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.02-20.00.48:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.02-20.00.48:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.02-20.00.48:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.02-20.00.48:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.02-20.00.48:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.02-20.00.48:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.02-20.00.48:518][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.02-20.00.48:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.02-20.00.48:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.02-20.00.48:538][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.02-20.00.48:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.02-20.00.48:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.02-20.00.48:554][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.02-20.00.48:554][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.02-20.00.48:564][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.02-20.00.48:605][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.02-20.00.48:644][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.02-20.00.48:644][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Intermediate/Shaders/WorkingDirectory/2468/).
+[2022.11.02-20.00.48:644][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/astilber/AppData/Local/Temp/UnrealShaderWorkingDir/AFF51CF346742849AD33E39FB51ED08E/'.
+[2022.11.02-20.00.48:644][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.02-20.00.48:644][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.02-20.00.48:644][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.02-20.00.49:404][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: Loaded boot cache 0.08s 94MB C:/Users/astilber/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/astilber/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-20.00.49:484][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.02-20.00.49:502][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.02-20.00.49:502][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-20.00.49:502][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.02-20.00.49:513][  0]LogDerivedDataCache: Speed tests for C:/Users/astilber/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.02-20.00.49:513][  0]LogDerivedDataCache: Display: Performance to C:/Users/astilber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=581.09MBs, RandomWriteSpeed=103.05MBs. Assigned SpeedClass 'Local'
+[2022.11.02-20.00.49:514][  0]LogDerivedDataCache: Using Local data cache path C:/Users/astilber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.02-20.00.49:514][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.02-20.00.49:514][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.02-20.00.49:560][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.02-20.00.49:561][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.02-20.00.49:592][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.11.02-20.00.49:839][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.02-20.00.49:839][  0]LogInit: Active device profile: [000001D210921100][000001D20662BB80 49] Windows
+[2022.11.02-20.00.49:839][  0]LogInit: Profiles: [000001D210921100][000001D20662BB80 49] Windows, [000001D21090E700][000001D2066322C0 49] WindowsNoEditor, [000001D210922200][000001D20DE94580 49] WindowsServer, [000001D21090D900][000001D20DE98840 49] WindowsClient, [000001D210921700][000001D20DE9CB00 49] IOS, [000001D21090E900][000001D20662ED80 49] iPadAir, [000001D210923C00][000001D20DEA5040 49] iPadAir2, [000001D2108C5400][000001D206A4B580 49] IPadPro, [000001D2108C5500][000001D206A3B5C0 49] iPadAir3, [000001D21090FA00][000001D206A43880 49] iPadAir4, [000001D2108C6300][000001D206A3FB40 49] iPadMini2, [000001D21090F100][000001D206A46280 49] iPadMini3, [000001D2108C6F00][000001D206A4E540 49] iPadMini4, [000001D21090DD00][000001D206A52800 49] iPadMini5, [000001D2108D9000][000001D206A66D40 49] iPhone6, [000001D2108D9100][000001D206A56D80 49] iPodTouch6, [000001D210923900][000001D206A6F280 49] iPhone7, [000001D210922900][000001D20DEA12C0 49] iPodTouch7, [000001D2108C5000][000001D206A63580 49] iPhone5S, [000001D210922F00][000001D206A5B840 49] iPhone6Plus, [000001D2108C7600][000001D206A6BB00 49] iPhone6S, [000001D210920C00][000001D206A72240 49] iPhone6SPlus, [000001D210921D00][000001D206A76500 49] iPhone7Plus, [000001D2108D8800][000001D20DF147C0 49] iPhoneSE, [000001D210920400][000001D20DF18A80 49] iPhone8, [000001D2108D8900][000001D20DF1CD40 49] iPhone8Plus, [000001D2108DAE00][000001D206A5EFC0 49] iPhoneX, [000001D2108C5D00][000001D20DF21240 49] iPhoneXS, [000001D2108DA700][000001D20DF29500 49] iPhoneXSMax, [000001D2108C5C00][000001D20DF2D7C0 49] iPhoneXR, [000001D2108DA800][000001D20DF31A80 49] iPhone11, [000001D2108C4F00][000001D20DF341C0 49] iPhone11Pro, [000001D2108D8B00][000001D20DF38480 49] iPhone11ProMax, [000001D2108C4C00][000001D20DF3C740 49] iPhoneSE2, [000001D2108D8E00][000001D20DF40A00 49] iPhone12Mini, [000001D210923800][000001D20DF44CC0 49] iPhone12, [000001D2108DB100][000001D20DF48F80 49] iPhone12Pro, [000001D210923700][000001D20DF25200 49] iPhone12ProMax, [000001D2108D9E00][000001D20DF4D480 49] iPadPro105, [000001D210921400][000001D20DF55740 49] iPadPro129, [000001D2108DBE00][000001D20DF59A00 49] iPadPro97, [000001D210922800][000001D20DF5C140 49] iPadPro2_129, [000001D2108DA000][000001D20DF60400 49] iPad5, [000001D210922300][000001D20DF646C0 49] iPad6, [000001D2108DBB00][000001D20DF68980 49] iPad7, [000001D210921E00][000001D20DF6CC40 49] iPad8, [000001D2108D8A00][000001D20DF70F00 49] iPadPro11, [000001D210923E00][000001D20DF751C0 49] iPadPro2_11, [000001D2108D9800][000001D20DF51440 49] iPadPro3_129, [000001D210922700][000001D20DF796C0 49] iPadPro4_129, [000001D2108D8200][000001D20DF81980 49] AppleTV, [000001D210923F00][000001D20DF840C0 49] AppleTV4K, [000001D2108DA400][000001D20DF88380 49] TVOS, [000001D210920100][000001D20DF8C640 49] Mac, [000001D2108D9D00][000001D21175C900 49] MacClient, [000001D210922A00][000001D211760BC0 49] MacNoEditor, [000001D2108DBA00][000001D211764E80 49] MacServer, [000001D210922000][000001D211769140 49] Linux, [000001D2108D9600][000001D21176D400 49] LinuxAArch64, [000001D210920800][000001D20DF7D680 49] LinuxNoEditor, [000001D2108D8C00][000001D211771900 49] LinuxAArch64NoEditor, [000001D210923B00][000001D211779BC0 49] LinuxClient, [000001D2108DB400][000001D21177C300 49] LinuxAArch64Client, [000001D210923A00][000001D2117805C0 49] LinuxServer, [000001D2108D8700][000001D211784880 49] LinuxAArch64Server, [000001D210922D00][000001D211788B40 49] Android, [000001D2108DAA00][000001D21178CE00 49] Android_Low, [000001D210921F00][000001D2117910C0 49] Android_Mid, [000001D2108D9F00][000001D211795380 49] Android_High, [000001D210921900][000001D211799640 49] Android_Default, [000001D2108DBC00][000001D2117758C0 49] Android_Adreno4xx, [000001D210923600][000001D21179DB40 49] Android_Adreno5xx_Low, [000001D2108DB200][000001D2117A4280 49] Android_Adreno5xx, [000001D210921000][000001D2117A8540 49] Android_Adreno6xx, [000001D2108DA500][000001D2117AC800 49] Android_Adreno6xx_Vulkan, [000001D210920A00][000001D2117B0AC0 49] Android_Mali_T6xx, [000001D2108DA900][000001D2117B4D80 49] Android_Mali_T7xx, [000001D210923D00][000001D2117B9040 49] Android_Mali_T8xx, [000001D2108DAD00][000001D2117BD300 49] Android_Mali_G71, [000001D2108C7100][000001D2117C15C0 49] Android_Mali_G72, [000001D21090EF00][000001D2117C5880 49] Android_Mali_G72_Vulkan, [000001D2108C6B00][000001D2117A1B00 49] Android_Mali_G76, [000001D21090C500][000001D2117C8200 49] Android_Mali_G76_Vulkan, [000001D2108C6600][000001D2117D04C0 49] Android_Mali_G77, [000001D21090FE00][000001D2117D4780 49] Android_Mali_G77_Vulkan, [000001D2108C6400][000001D2117D8A40 49] Android_Mali_G78, [000001D21090CD00][000001D2117DCD00 49] Android_Mali_G78_Vulkan, [000001D2108C7500][000001D2117E0FC0 49] Android_Mali_G710, [000001D21090EB00][000001D2117E5280 49] Android_Mali_G710_Vulkan, [000001D2108C7E00][000001D2117E9540 49] Android_Vulkan_SM5, [000001D21090DA00][000001D2117ED800 49] Android_PowerVR_G6xxx, [000001D2108C4500][000001D2117F1AC0 49] Android_PowerVR_GT7xxx, [000001D21090C200][000001D2117CC1C0 49] Android_PowerVR_GE8xxx, [000001D2108C7B00][000001D2117F4440 49] Android_PowerVR_GM9xxx, [000001D21090E100][000001D2117FC700 49] Android_PowerVR_GM9xxx_Vulkan, [000001D2108C5F00][000001D2118009C0 49] Android_TegraK1, [000001D21090CA00][000001D211804C80 49] Android_Unknown_Vulkan, [000001D2108C7900][000001D211808F40 49] Lumin, [000001D21090D200][000001D21180D200 49] Lumin_Desktop, [000001D2108C5E00][000001D2111BF4C0 49] HoloLens, 
+[2022.11.02-20.00.49:978][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.02-20.00.49:978][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.02-20.00.49:978][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.02-20.00.49:978][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.02-20.00.49:978][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.02-20.00.49:995][  0]LogNetVersion: MidtermProject 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1055199276)
+[2022.11.02-20.00.50:435][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.11.02-20.00.50:497][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.02-20.00.50:503][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.11.02-20.00.50:503][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.11.02-20.00.50:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.02-20.00.50:834][  0]LogPython: Using Python 3.7.7
+[2022.11.02-20.00.51:463][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BAFAF9944C2D0AAA037B3B8EB3FE4736 | Instance: 923CAA7E4544312C26EBC6A8395D5398 (5CD912CGNW-2468).
+[2022.11.02-20.00.51:565][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.02-20.00.51:572][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.02-20.00.51:827][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.51:827][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.51:838][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.51:851][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.51:862][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.51:964][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.02-20.00.51:968][  0]LogUProjectInfo: Found projects:
+[2022.11.02-20.00.52:041][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.02-20.00.52:070][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-20.00.52:070][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-20.00.52:209][  0]LogCollectionManager: Loaded 0 collections in 0.001381 seconds
+[2022.11.02-20.00.52:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Collections/' took 0.00s
+[2022.11.02-20.00.52:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Developers/astilber/Collections/' took 0.00s
+[2022.11.02-20.00.52:236][  0]LogFileCache: Scanning file cache for directory 'C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Collections/' took 0.00s
+[2022.11.02-20.00.52:236][  0]LogOcInput: OculusInput pre-init called
+[2022.11.02-20.00.52:505][  0]LogEngine: Initializing Engine...
+[2022.11.02-20.00.52:511][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.11.02-20.00.52:512][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.02-20.00.52:512][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.02-20.00.52:513][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.02-20.00.52:641][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.02-20.00.52:652][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.02-20.00.52:660][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.02-20.00.52:665][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.02-20.00.52:665][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-20.00.52:666][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-20.00.52:666][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.02-20.00.52:678][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-20.00.52:678][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-20.00.52:712][  0]LogAudioMixer: Display: Using Audio Device Headphones (Conexant ISST Audio)
+[2022.11.02-20.00.52:715][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-20.00.52:718][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-20.00.52:718][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-20.00.52:720][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.02-20.00.52:720][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.02-20.00.52:720][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.02-20.00.52:723][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.02-20.00.52:723][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.02-20.00.52:723][  0]LogInit: FAudioDevice initialized.
+[2022.11.02-20.00.52:723][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.02-20.00.52:723][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.02-20.00.52:791][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/astilber/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.02-20.00.52:791][  0]LogInit: Texture streaming: Enabled
+[2022.11.02-20.00.52:810][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.11.02-20.00.52:817][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.02-20.00.52:818][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.02-20.00.52:825][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.02-20.00.52:863][  0]LogInit: Transaction tracking system initialized
+[2022.11.02-20.00.52:899][  0]BlueprintLog: New page: Editor Load
+[2022.11.02-20.00.52:977][  0]LocalizationService: Localization service is disabled
+[2022.11.02-20.00.53:006][  0]TimingProfiler: Initialize
+[2022.11.02-20.00.53:006][  0]TimingProfiler: OnSessionChanged
+[2022.11.02-20.00.53:006][  0]LoadingProfiler: Initialize
+[2022.11.02-20.00.53:006][  0]LoadingProfiler: OnSessionChanged
+[2022.11.02-20.00.53:006][  0]NetworkingProfiler: Initialize
+[2022.11.02-20.00.53:006][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.02-20.00.53:006][  0]MemoryProfiler: Initialize
+[2022.11.02-20.00.53:006][  0]MemoryProfiler: OnSessionChanged
+[2022.11.02-20.00.53:172][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.02-20.00.53:172][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.02-20.00.53:389][  0]LogFileCache: Scanning file cache for directory 'C:/Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/' took 0.01s
+[2022.11.02-20.00.53:604][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.02-20.00.53:610][  0]SourceControl: Source control is disabled
+[2022.11.02-20.00.53:610][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.717
+[2022.11.02-20.00.53:610][  0]Cmd: MAP LOAD FILE="../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Mainlevel/Main_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.02-20.00.53:610][  0]LightingResults: New page: Lighting Build
+[2022.11.02-20.00.53:611][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-20.00.53:612][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-20.00.53:612][  0]MapCheck: New page: Map Check
+[2022.11.02-20.00.53:612][  0]LightingResults: New page: Lighting Build
+[2022.11.02-20.00.53:616][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-20.00.53:620][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.02-20.00.53:798][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Level'.
+[2022.11.02-20.00.53:798][  0]LogAIModule: Creating AISystem for world Main_Level
+[2022.11.02-20.00.53:825][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.02-20.00.53:873][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.02-20.00.53:874][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.02-20.00.53:874][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2022.11.02-20.00.53:874][  0]LogFileHelpers: Loading map 'Main_Level' took 0.264
+[2022.11.02-20.00.53:876][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.982
+[2022.11.02-20.00.54:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-20.00.54:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-20.00.54:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-20.00.54:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-20.00.54:112][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0084 seconds. Added 3822 classes and 928 folders.
+[2022.11.02-20.00.54:120][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.11.02-20.00.54:129][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-20.00.54:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-20.00.54:130][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:130][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.11.02-20.00.54:130][  0]LogPakFile: OnPakFileMounted2Time == 0.000290
+[2022.11.02-20.00.54:136][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.02-20.00.54:136][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:136][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.02-20.00.54:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:136][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.11.02-20.00.54:136][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.11.02-20.00.54:137][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.02-20.00.54:137][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:137][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.02-20.00.54:137][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:137][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.11.02-20.00.54:137][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.11.02-20.00.54:139][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-20.00.54:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-20.00.54:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.11.02-20.00.54:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-20.00.54:141][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.02-20.00.54:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.02-20.00.54:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.11.02-20.00.54:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.02-20.00.54:144][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.02-20.00.54:144][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:144][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.02-20.00.54:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:144][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.11.02-20.00.54:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:146][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.02-20.00.54:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.02-20.00.54:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.11.02-20.00.54:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-20.00.54:148][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.02-20.00.54:148][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.02-20.00.54:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.11.02-20.00.54:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-20.00.54:149][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-20.00.54:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-20.00.54:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.11.02-20.00.54:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-20.00.54:152][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.02-20.00.54:152][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.02-20.00.54:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.11.02-20.00.54:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.11.02-20.00.54:154][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.02-20.00.54:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.02-20.00.54:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.11.02-20.00.54:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.11.02-20.00.54:156][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-20.00.54:156][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-20.00.54:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.11.02-20.00.54:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-20.00.54:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-20.00.54:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-20.00.54:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.11.02-20.00.54:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:161][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-20.00.54:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-20.00.54:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.11.02-20.00.54:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-20.00.54:162][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.02-20.00.54:163][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.02-20.00.54:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.11.02-20.00.54:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:165][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-20.00.54:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-20.00.54:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.11.02-20.00.54:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.02-20.00.54:168][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.02-20.00.54:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.02-20.00.54:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.11.02-20.00.54:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-20.00.54:170][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-20.00.54:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-20.00.54:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.11.02-20.00.54:170][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.11.02-20.00.54:172][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-20.00.54:172][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:172][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-20.00.54:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:172][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.11.02-20.00.54:172][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-20.00.54:173][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-20.00.54:173][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:173][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-20.00.54:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:173][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.11.02-20.00.54:173][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.02-20.00.54:176][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-20.00.54:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-20.00.54:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:176][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.11.02-20.00.54:176][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:180][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-20.00.54:180][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:180][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-20.00.54:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:180][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.11.02-20.00.54:180][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:183][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.02-20.00.54:183][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:183][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.02-20.00.54:183][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:183][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.11.02-20.00.54:183][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-20.00.54:185][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-20.00.54:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-20.00.54:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.11.02-20.00.54:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-20.00.54:187][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-20.00.54:187][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:187][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-20.00.54:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:187][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.11.02-20.00.54:187][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.11.02-20.00.54:189][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.02-20.00.54:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-20.00.54:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.02-20.00.54:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-20.00.54:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.11.02-20.00.54:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.02-20.00.54:332][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.02-20.00.54:337][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2022.11.02-20.00.54:502][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.02-20.00.54:504][  0]LogSlate: Took 0.001016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.02-20.00.54:505][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.02-20.00.54:597][  0]LogRenderer: Reallocating scene render targets to support 936x432 Format 10 NumSamples 1 (Frame:1).
+[2022.11.02-20.00.54:704][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.11.02-20.00.54:704][  0]LogLoad: (Engine Initialization) Total time: 8.81 seconds
+[2022.11.02-20.00.54:704][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.02-20.00.54:745][  0]LogAssetRegistry: Asset discovery search completed in 5.1555 seconds
+[2022.11.02-20.00.54:752][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.11.02-20.00.54:755][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.02-20.00.55:718][101]LogSlate: Took 0.001036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.02-20.01.22:692][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.01.22:905][472]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.11.02-20.01.23:811][472]LogSlate: Took 0.000722 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.02-20.01.23:886][473]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.02-20.03.23:164][345]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.03.23:232][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.11.02-20.03.23:283][345]LogSlate: Took 0.000773 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.02-20.03.42:915][672]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.03.42:983][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.05.02:232][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Tetris_Player.Tetris_Player
+[2022.11.02-20.05.05:924][712]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base7DF2147440B53C4BEBFE17BCFF42E830.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.05.05:936][712]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.05.05:936][712]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.07.20:823][358]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.07.20:898][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.08.49:204][233]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.08.49:276][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.02-20.08.49:798][273]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base9AE3FFFF431D4BAE05C927A8100E2D3B.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.08.49:815][273]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.08.49:815][273]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.09.42:101][495]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.09.42:169][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.11.02-20.09.43:527][634]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_BaseA92C85E8461E804F22325DBC4FCC0236.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.09.43:538][634]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.09.43:538][634]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.10.39:550][555]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.10.39:621][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.11.02-20.10.40:491][636]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base76D8C1C741DC29AB6C03CCB1FCA5B311.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.10.40:501][636]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.10.40:501][636]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.11.18:766][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.11.02-20.11.18:800][379]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto1E4362F6743F16FC2C21AC3B854417928.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto1.umap'
+[2022.11.02-20.11.18:802][379]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.061
+[2022.11.02-20.11.18:802][379]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.11.02-20.11.18:803][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Tetris_Player] ([2] browsable assets)...
+[2022.11.02-20.11.18:803][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Tetris_Player]
+[2022.11.02-20.11.18:909][379]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Tetris_Player_Auto1F5826B7044CD821104EC9793197C39F2.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Game/Tetris_Player_Auto1.uasset'
+[2022.11.02-20.11.18:910][379]LogFileHelpers: Auto-saving content packages took 0.107
+[2022.11.02-20.12.45:086][358]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.12.45:163][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.11.02-20.12.45:657][397]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base166EB403461B457A82B6E6A0419F34D7.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.12.45:674][397]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.12.45:674][397]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.13.25:425][554]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.13.25:498][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.11.02-20.13.26:023][593]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base1F0E351A406C124C0F3F8E9ADAA07654.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.13.26:038][593]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.13.26:038][593]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.14.27:707][187]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.14.27:778][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.11.02-20.14.28:341][236]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base524CE3DE40B0130926A426932E51F302.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.14.28:359][236]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.14.28:359][236]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.15.12:497][979]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.15.12:569][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.11.02-20.15.13:335][ 47]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base0C7909F84BC11D0724BB0C9275B576FD.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.15.13:352][ 47]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.15.13:352][ 47]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.15.48:511][688]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UBlueprintMapLibrary::Map_Add' [The specified module could not be found.]
+[2022.11.02-20.17.15:179][683]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.17.15:266][683]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.11.02-20.21.48:177][297]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.21.48:255][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.11.02-20.21.48:908][325]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base3F12FFBB4700B22C6A9AE4BCBA9C8AED.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.21.48:924][325]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.21.48:924][325]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.22.31:494][199]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.22.31:571][199]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.11.02-20.22.57:352][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.11.02-20.22.57:382][364]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto27690D774439D4ED43E0C6ABD6FC8095E.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto2.umap'
+[2022.11.02-20.22.57:384][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.055
+[2022.11.02-20.22.57:384][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.11.02-20.22.57:384][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Tetris_Player] ([2] browsable assets)...
+[2022.11.02-20.22.57:384][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Tetris_Player]
+[2022.11.02-20.22.57:489][364]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Tetris_Player_Auto2F724798D428C47F8DB1A4EA95DEDBA76.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Game/Tetris_Player_Auto2.uasset'
+[2022.11.02-20.22.57:490][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Piece_Blueprints/Block_Base] ([2] browsable assets)...
+[2022.11.02-20.22.57:490][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Piece_Blueprints/Block_Base]
+[2022.11.02-20.22.57:586][364]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base_Auto290A74C234C31547D0088A88EE51461C7.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Piece_Blueprints/Block_Base_Auto2.uasset'
+[2022.11.02-20.22.57:587][364]LogFileHelpers: Auto-saving content packages took 0.204
+[2022.11.02-20.24.09:677][707]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.24.09:747][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.02-20.24.10:653][752]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base4ACFCC844BAF428965C7CFBAA415328E.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.24.10:668][752]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.24.10:669][752]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.30.48:573][930]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base0AC035A24D9E52DEBC60CDBF80429D87.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.30.48:593][930]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.30.48:593][930]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.31.38:406][218]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.31.38:481][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.11.02-20.31.38:956][237]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base5480E44A4147184AD3EBC4BFD96307BF.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.31.38:973][237]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.31.38:973][237]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.33.41:317][247]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.33.41:391][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.11.02-20.35.04:245][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.11.02-20.35.04:275][482]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto372CF4B3148708C57142C7B9DAC1EDCDD.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto3.umap'
+[2022.11.02-20.35.04:277][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.056
+[2022.11.02-20.35.04:277][482]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.11.02-20.35.04:277][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Tetris_Player] ([2] browsable assets)...
+[2022.11.02-20.35.04:277][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Tetris_Player]
+[2022.11.02-20.35.04:381][482]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Tetris_Player_Auto3EE5194C6488868903DE0C5825A4AF7CD.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Game/Tetris_Player_Auto3.uasset'
+[2022.11.02-20.35.04:382][482]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Piece_Blueprints/Block_Base] ([2] browsable assets)...
+[2022.11.02-20.35.04:382][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/Piece_Blueprints/Block_Base]
+[2022.11.02-20.35.04:485][482]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base_Auto384A71A7D464778FF86CC9592DDB20755.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Piece_Blueprints/Block_Base_Auto3.uasset'
+[2022.11.02-20.35.04:487][482]LogFileHelpers: Auto-saving content packages took 0.209
+[2022.11.02-20.35.10:349][827]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.35.10:420][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.02-20.35.39:665][256]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.35.39:740][256]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.11.02-20.35.40:320][279]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base6485F56A4BD6556E2D4B389EC5537D39.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.35.40:338][279]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.35.40:338][279]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.36.42:012][828]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.36.42:087][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.36.42:634][849]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base97509E9B4E5533E0176C9BA0795778DD.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.36.42:652][849]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.36.42:652][849]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.37.13:976][894]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.37.14:048][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.02-20.39.42:406][960]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.39.42:506][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.11.02-20.39.43:030][980]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base97FA2076460DD73464AE4889BEFEDF12.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.39.43:047][980]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.39.43:047][980]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.41.48:435][ 33]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.41.48:517][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.11.02-20.41.49:741][ 93]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base9B18FDD64539B21C5D6B17A55AED28F9.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.41.49:759][ 93]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.41.49:759][ 93]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.43.00:816][919]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.43.00:892][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.02-20.44.06:397][630]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.44.06:473][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.11.02-20.44.07:617][684]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_BaseD5A7F1944BC1626028BC72834D1450B5.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.44.07:633][684]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.44.07:633][684]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.44.47:094][766]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.44.47:170][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.02-20.44.47:995][802]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_BaseBFB54A0641D8EB7F221712A7EE7B3549.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.44.48:011][802]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.44.48:011][802]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.44.49:362][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Tetris_Player" FILE="../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/Tetris_Player.uasset" SILENT=true
+[2022.11.02-20.44.49:465][878]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Tetris_Player89C67AFF489C52BC8DC221899B6B41F2.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/Tetris_Player.uasset'
+[2022.11.02-20.44.49:477][878]AssetCheck: New page: Asset Save: Tetris_Player
+[2022.11.02-20.44.49:477][878]LogContentValidation: Display: Validating Blueprint /Game/Game/Tetris_Player.Tetris_Player
+[2022.11.02-20.45.22:977][156]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.45.23:055][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.11.02-20.45.23:611][175]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base1B67B7F34B1BBEFCF981DD8B2D60A392.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.45.23:628][175]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.45.23:628][175]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.45.47:961][608]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.45.48:036][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.11.02-20.45.48:593][628]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base05173CAF43FCAE64106BE2ACBFD7280C.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.45.48:610][628]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.45.48:610][628]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.46.07:026][726]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.46.07:102][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.02-20.46.07:861][758]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base5873ED9A457C7DAA2AF312945E7CC7F0.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.46.07:878][758]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.46.07:878][758]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.46.40:367][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.11.02-20.46.40:398][347]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto4A4A6AAF2462C2AEBA186FE9168D0AE4C.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto4.umap'
+[2022.11.02-20.46.40:400][347]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.056
+[2022.11.02-20.46.40:400][347]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2022.11.02-20.47.10:673][808]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.47.10:749][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.02-20.47.11:255][828]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base07249F044867B83A22B40F869CA7A0CB.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.47.11:271][828]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.47.11:271][828]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.48.17:003][578]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.48.17:034][578]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.48.17:083][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.11.02-20.50.21:836][ 43]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.02-20.50.34:366][761]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.02-20.52.39:263][125]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.52.39:292][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Set CenterPiece_L
+[2022.11.02-20.52.39:292][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.39:292][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Set Array Element L
+[2022.11.02-20.52.39:292][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get Array Element L
+[2022.11.02-20.52.39:292][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.39:293][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get Array Element L
+[2022.11.02-20.52.39:293][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get Array Element L
+[2022.11.02-20.52.39:293][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.39:293][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.39:293][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get Array Element L
+[2022.11.02-20.52.39:294][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "Array Element L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get Array Element L
+[2022.11.02-20.52.39:294][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.39:294][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.39:294][125]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.39:300][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.52.39:300][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.52.39:300][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:300][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:301][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:302][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:302][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:302][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:302][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Array Element L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:302][125]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.39:348][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.02-20.52.58:296][227]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.52.58:323][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Set CenterPiece_L
+[2022.11.02-20.52.58:323][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.58:324][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.58:324][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.58:324][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.58:324][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.58:325][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "CenterPiece_L" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get CenterPiece_L
+[2022.11.02-20.52.58:325][227]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.52.58:330][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.52.58:330][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.52.58:330][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:330][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:331][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:331][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:331][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:331][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:331][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:332][227]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  Center Piece L  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.52.58:377][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.11.02-20.53.04:629][583]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.53.04:657][583]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.53.04:657][583]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.53.04:658][583]LogBlueprint: Warning: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Could not find a variable named "New Data" in 'Block_Base_C'.
+Make sure 'Block_Base_C' has been compiled for  Get New Data
+[2022.11.02-20.53.04:663][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.53.04:663][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.53.04:664][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.53.04:664][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.53.04:664][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The property associated with  New Data  could not be found in '/Game/Piece_Blueprints/Block_Base.Block_Base_C'
+[2022.11.02-20.53.04:710][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.02-20.53.10:198][885]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.53.10:231][885]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.53.10:232][885]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.53.10:276][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.53.22:510][583]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.53.22:539][583]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] The current value of the ' Array ' pin is invalid: Array inputs (like 'Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.11.02-20.53.22:584][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.02-20.54.34:194][492]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.54.34:225][492]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.54.34:270][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.02-20.54.51:558][787]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.54.51:589][787]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.54.51:633][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.55.02:988][458]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.55.03:017][458]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.55.03:062][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.11.02-20.55.54:520][462]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.55.54:550][462]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.55.54:595][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.02-20.56.56:434][561]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.56.56:464][561]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.56.56:509][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.57.59:149][799]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.57.59:179][799]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.57.59:226][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.02-20.58.00:142][839]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_BaseBDD6E3C848806A523965DD89CFE24C8D.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.58.00:157][839]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.58.00:157][839]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-20.58.15:401][715]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.58.15:433][715]LogBlueprint: Error: [AssetLog] C:\Users\astilber\Documents\Unreal Projects\Midterm-Project\MidtermProject\Content\Piece_Blueprints\Block_Base.uasset: [Compiler] Pin  Block Data St  named Block_Data_St doesn't match any parameters of function Force Rotate Block
+[2022.11.02-20.58.15:479][715]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.02-20.59.51:027][109]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-20.59.51:108][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-20.59.54:368][287]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base57B63603469631CD0BDA90BAD31EEC5A.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-20.59.54:382][287]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-20.59.54:382][287]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-21.00.22:677][385]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.00.22:755][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.11.02-21.00.53:592][533]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.00.53:668][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.11.02-21.00.54:368][562]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base7A1A7F3A42B3EAD175FBA48471541D2D.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-21.00.54:384][562]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-21.00.54:385][562]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-21.01.18:109][409]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.01.18:188][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.11.02-21.01.44:372][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.11.02-21.01.44:402][616]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto58B2AADB04E6D5A1DCEE3B9BE6883A256.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto5.umap'
+[2022.11.02-21.01.44:403][616]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.057
+[2022.11.02-21.01.44:403][616]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2022.11.02-21.01.44:404][616]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Piece_Blueprints/Block_Base] ([2] browsable assets)...
+[2022.11.02-21.01.44:404][616]OBJ SavePackage: Finished generating thumbnails for package [/Game/Piece_Blueprints/Block_Base]
+[2022.11.02-21.01.44:528][616]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base_Auto5CF6DC56E4FA5881156CAF598BFA501FC.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Piece_Blueprints/Block_Base_Auto5.uasset'
+[2022.11.02-21.01.44:537][616]LogFileHelpers: Auto-saving content packages took 0.135
+[2022.11.02-21.18.02:018][ 80]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.18.02:100][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.11.02-21.19.03:921][664]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.19.04:001][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.02-21.19.29:247][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.11.02-21.19.29:279][814]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto60F50EB494A9B683153DC6D9E74B6B6A9.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto6.umap'
+[2022.11.02-21.19.29:280][814]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.060
+[2022.11.02-21.19.29:280][814]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2022.11.02-21.19.29:280][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Piece_Blueprints/Block_Base] ([2] browsable assets)...
+[2022.11.02-21.19.29:280][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Piece_Blueprints/Block_Base]
+[2022.11.02-21.19.29:407][814]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base_Auto6636A32C3401FD16AEB5D8EA04C5A6302.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Piece_Blueprints/Block_Base_Auto6.uasset'
+[2022.11.02-21.19.29:408][814]LogFileHelpers: Auto-saving content packages took 0.127
+[2022.11.02-21.20.39:065][245]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.20.39:142][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.11.02-21.20.39:942][280]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base9B1A60CA4040DF4314E12D84CEB20118.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Piece_Blueprints/Block_Base.uasset'
+[2022.11.02-21.20.39:960][280]AssetCheck: New page: Asset Save: Block_Base
+[2022.11.02-21.20.39:960][280]LogContentValidation: Display: Validating Blueprint /Game/Piece_Blueprints/Block_Base.Block_Base
+[2022.11.02-21.20.42:607][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.02-21.20.42:638][433]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_LevelE2C45E9E499E956F8D26BBBC7C1BF3CA.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Mainlevel/Main_Level.umap'
+[2022.11.02-21.20.42:660][433]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_BuiltDataDD4165E34F03E873C3E1C4A17CA14374.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Mainlevel/Main_Level_BuiltData.uasset'
+[2022.11.02-21.20.42:673][433]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.02-21.20.42:673][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Mainlevel/Main_Level_BuiltData.Main_Level_BuiltData
+[2022.11.02-21.20.42:673][433]LogContentValidation: Display: Validating World /Game/Mainlevel/Main_Level.Main_Level
+[2022.11.02-21.20.53:017][ 49]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Game/Debug_Tool.Debug_Tool
+[2022.11.02-21.21.01:650][538]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-21.21.01:651][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-21.21.08:387][925]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2022.11.02-21.21.08:396][925]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2022.11.02-21.21.28:313][ 75]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2022.11.02-21.21.28:316][ 75]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2022.11.02-21.21.51:279][123]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> OOB_State_En
+[2022.11.02-21.21.51:312][123]LogMetaData: Removing '/Game/Game/OOB_State_En.OOB_State_En' ref from Metadata '/Game/Game/NewUserDefinedEnum.PackageMetaData'
+[2022.11.02-21.21.51:344][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/OOB_State_En" FILE="../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/OOB_State_En.uasset" SILENT=true
+[2022.11.02-21.21.51:345][123]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/OOB_State_EnD613506140ADD65A97AA15A7050C2902.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/OOB_State_En.uasset'
+[2022.11.02-21.21.51:440][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.11.02-21.21.51:477][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.11.02-21.21.51:498][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.02-21.21.51:548][123]AssetCheck: New page: Asset Save: OOB_State_En
+[2022.11.02-21.21.51:548][123]LogContentValidation: Display: Validating UserDefinedEnum /Game/Game/OOB_State_En.OOB_State_En
+[2022.11.02-21.21.58:312][517]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/Center_Piece_En.Center_Piece_En
+[2022.11.02-21.22.16:645][143]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Game/OOB_State_En.OOB_State_En
+[2022.11.02-21.22.36:709][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/OOB_State_En" FILE="../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/OOB_State_En.uasset" SILENT=true
+[2022.11.02-21.22.36:710][233]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/OOB_State_En88D054E24B2913338C641D856B73F221.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Content/Game/OOB_State_En.uasset'
+[2022.11.02-21.22.36:718][233]AssetCheck: New page: Asset Save: OOB_State_En
+[2022.11.02-21.22.36:718][233]LogContentValidation: Display: Validating UserDefinedEnum /Game/Game/OOB_State_En.OOB_State_En
+[2022.11.02-21.58.54:531][962]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.58.54:628][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.11.02-21.59.19:397][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.11.02-21.59.19:429][273]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Main_Level_Auto7862E185143CD55D261A60386196B4072.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Mainlevel/Main_Level_Auto7.umap'
+[2022.11.02-21.59.19:430][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Mainlevel/Main_Level' took 0.058
+[2022.11.02-21.59.19:430][273]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2022.11.02-21.59.19:430][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Piece_Blueprints/Block_Base] ([2] browsable assets)...
+[2022.11.02-21.59.19:431][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Piece_Blueprints/Block_Base]
+[2022.11.02-21.59.19:564][273]LogSavePackage: Moving '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Block_Base_Auto721CB58474E1AB9C345904B9033A7F537.tmp' to '../../../../../../Users/astilber/Documents/Unreal Projects/Midterm-Project/MidtermProject/Saved/Autosaves/Game/Piece_Blueprints/Block_Base_Auto7.uasset'
+[2022.11.02-21.59.19:565][273]LogFileHelpers: Auto-saving content packages took 0.135
+[2022.11.02-21.59.37:557][840]LogSlate: Took 0.000938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.02-21.59.43:509][189]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-21.59.43:587][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.11.02-22.00.07:977][ 59]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-22.00.08:057][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.11.02-22.03.11:425][298]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.02-22.03.13:952][439]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.02-22.03.13:956][439]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.02-22.03.15:676][540]BlueprintLog: New page: Compile Block_Base
+[2022.11.02-22.03.15:678][540]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.02-22.03.15:734][540]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.056 s
+[2022.11.02-22.03.15:734][540]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: 
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: Stack: 
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd2c9648c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd2c17bd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17dde3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17dde501 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17db4627 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17d5c02f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17d5bd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd2c1500de UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17e5ee7c UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd17e7ca46 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd5377cf28 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd537a2082 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd5377ca87 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd5381a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd5383280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd5368421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd536fe104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd536e7097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd536d9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd8b1fc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd8b1e92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd8b1fe465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd8b1e4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffdb446e858 USER32.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffdb446e299 USER32.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffd8b1ffcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb67621 UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb80fcc UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb810ba UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb840dd UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb95984 UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ff7dfb9853a UE4Editor.exe!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffdb4237034 KERNEL32.DLL!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: [Callstack] 0x00007ffdb5de26a1 ntdll.dll!UnknownFunction []
+[2022.11.02-22.03.15:735][540]LogOutputDevice: Error: 
